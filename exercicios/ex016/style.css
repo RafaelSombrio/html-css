@@ -1,0 +1,10 @@
+*{
+    height: auto;
+}
+body{
+    background-image:linear-gradient(to top, rgb(77, 189, 233) 1%, rgba(113, 113, 218, 0.459));
+    background-attachment: fixed;
+}
+p{
+    font-style: italic;
+}
